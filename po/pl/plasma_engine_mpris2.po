@@ -1,0 +1,82 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>, 2012, 2015, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2018-04-28 06:55+0100\n"
+"Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
+"Language-Team: Polish <kde-i18n-doc@kde.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: multiplexedservice.cpp:85
+#, kde-format
+msgctxt "Name for global shortcuts category"
+msgid "Media Controller"
+msgstr "Pilot multimedialny"
+
+#: multiplexedservice.cpp:87
+#, kde-format
+msgid "Play/Pause media playback"
+msgstr "Odtwórz/Wstrzymaj odtwarzanie"
+
+#: multiplexedservice.cpp:107
+#, kde-format
+msgid "Media playback next"
+msgstr "Odtwórz następny plik"
+
+#: multiplexedservice.cpp:118
+#, kde-format
+msgid "Media playback previous"
+msgstr "Odtwórz poprzedni plik"
+
+#: multiplexedservice.cpp:129
+#, kde-format
+msgid "Stop media playback"
+msgstr "Zatrzymaj odtwarzanie pliku"
+
+#: multiplexedservice.cpp:140
+#, kde-format
+msgid "Media volume up"
+msgstr "Zwiększ głośność"
+
+#: multiplexedservice.cpp:151
+#, kde-format
+msgid "Media volume down"
+msgstr "Zmniejsz głośność"
+
+#: playeractionjob.cpp:202
+#, kde-format
+msgid "The media player '%1' cannot perform the action '%2'."
+msgstr "Odtwarzacz multimediów '%1' nie może wykonać tego działania '%2'."
+
+#: playeractionjob.cpp:204
+#, kde-format
+msgid "Attempting to perform the action '%1' failed with the message '%2'."
+msgstr ""
+"Próba wykonania działania '%1' zakończyła się niepowodzeniem z komunikatem "
+"'%2'."
+
+#: playeractionjob.cpp:207
+#, kde-format
+msgid "The argument '%1' for the action '%2' is missing or of the wrong type."
+msgstr "Brakuje argumentu '%1' dla działania '%2' lub podano zły typ."
+
+#: playeractionjob.cpp:209
+#, kde-format
+msgid "The operation '%1' is unknown."
+msgstr "Operacja '%1' jest nieznana."
+
+#: playeractionjob.cpp:211
+#, kde-format
+msgid "Unknown error."
+msgstr "Nieznany błąd."

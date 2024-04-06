@@ -1,0 +1,746 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Danishka Navin <danishka@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-15 02:23+0200\n"
+"PO-Revision-Date: 2009-12-19 01:47+0530\n"
+"Last-Translator: Danishka Navin <danishka@gmail.com>\n"
+"Language-Team: Sinhala <danishka@gmail.com>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: soliddeviceengine.cpp:130
+#, kde-format
+msgid "Parent UDI"
+msgstr "මුල් UDI"
+
+#: soliddeviceengine.cpp:131
+#, kde-format
+msgid "Vendor"
+msgstr "නිශ්පාදක"
+
+#: soliddeviceengine.cpp:132
+#, kde-format
+msgid "Product"
+msgstr "නිපැයුම"
+
+#: soliddeviceengine.cpp:133
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: soliddeviceengine.cpp:134
+#, kde-format
+msgid "Icon"
+msgstr "අයිකනය"
+
+#: soliddeviceengine.cpp:135 soliddeviceengine.cpp:616
+#, kde-format
+msgid "Emblems"
+msgstr "ලාංඡන"
+
+#: soliddeviceengine.cpp:136 soliddeviceengine.cpp:498
+#: soliddeviceengine.cpp:504 soliddeviceengine.cpp:517
+#, fuzzy, kde-format
+#| msgid "Has State"
+msgid "State"
+msgstr "තත්වයක් ඇත"
+
+#: soliddeviceengine.cpp:137 soliddeviceengine.cpp:499
+#: soliddeviceengine.cpp:505 soliddeviceengine.cpp:513
+#: soliddeviceengine.cpp:515
+#, kde-format
+msgid "Operation result"
+msgstr ""
+
+#: soliddeviceengine.cpp:138
+#, kde-format
+msgid "Timestamp"
+msgstr ""
+
+#: soliddeviceengine.cpp:146
+#, kde-format
+msgid "Processor"
+msgstr "සකසනය"
+
+#: soliddeviceengine.cpp:147
+#, kde-format
+msgid "Number"
+msgstr "අංකය"
+
+#: soliddeviceengine.cpp:148
+#, kde-format
+msgid "Max Speed"
+msgstr "උපරිම වේගය"
+
+#: soliddeviceengine.cpp:149
+#, kde-format
+msgid "Can Change Frequency"
+msgstr "සංඛ්‍යාතය වෙනස් කල හැක"
+
+#: soliddeviceengine.cpp:157
+#, kde-format
+msgid "Block"
+msgstr "වලකන්න"
+
+#: soliddeviceengine.cpp:158
+#, kde-format
+msgid "Major"
+msgstr "ප්‍රධාන"
+
+#: soliddeviceengine.cpp:159
+#, kde-format
+msgid "Minor"
+msgstr "අවම"
+
+#: soliddeviceengine.cpp:160
+#, kde-format
+msgid "Device"
+msgstr "උපාංගය"
+
+#: soliddeviceengine.cpp:168
+#, kde-format
+msgid "Storage Access"
+msgstr "ගබඩා පිවිසුම"
+
+#: soliddeviceengine.cpp:169 soliddeviceengine.cpp:529
+#: soliddeviceengine.cpp:630
+#, kde-format
+msgid "Accessible"
+msgstr "ප්‍රවේශණය"
+
+#: soliddeviceengine.cpp:170 soliddeviceengine.cpp:530
+#, kde-format
+msgid "File Path"
+msgstr "ගොනු පෙත"
+
+#: soliddeviceengine.cpp:185
+#, kde-format
+msgid "Storage Drive"
+msgstr "දත්ත ගබඩාව"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Ide"
+msgstr "Ide"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Usb"
+msgstr "Usb"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Ieee1394"
+msgstr "Ieee1394"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Scsi"
+msgstr "Scsi"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Sata"
+msgstr "Sata"
+
+#: soliddeviceengine.cpp:188
+#, kde-format
+msgid "Platform"
+msgstr "වේදිකාව"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Hard Disk"
+msgstr "දෘඩ තැටිය"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Cdrom Drive"
+msgstr "CD රොම් ධාවකය"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Floppy"
+msgstr "නම්‍යතැටිය"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Tape"
+msgstr "පටය"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Compact Flash"
+msgstr "සංයුක්ත ෆ්ලෑශ් "
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Memory Stick"
+msgstr "මතක දණ්ඩ"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Smart Media"
+msgstr "ස්මාට් මාධ්‍ය"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "SdMmc"
+msgstr "SdMmc"
+
+#: soliddeviceengine.cpp:190
+#, kde-format
+msgid "Xd"
+msgstr "Xd"
+
+#: soliddeviceengine.cpp:192
+#, kde-format
+msgid "Bus"
+msgstr "බස්"
+
+#: soliddeviceengine.cpp:193
+#, kde-format
+msgid "Drive Type"
+msgstr "ධාවක වර්‍ගය"
+
+#: soliddeviceengine.cpp:194 soliddeviceengine.cpp:207
+#: soliddeviceengine.cpp:377 soliddeviceengine.cpp:392
+#, kde-format
+msgid "Removable"
+msgstr "ඉවත්කල හැකි"
+
+#: soliddeviceengine.cpp:195 soliddeviceengine.cpp:208
+#: soliddeviceengine.cpp:378 soliddeviceengine.cpp:393
+#, kde-format
+msgid "Hotpluggable"
+msgstr "හොට් ප්ලග්"
+
+#: soliddeviceengine.cpp:218
+#, kde-format
+msgid "Optical Drive"
+msgstr "ඔප්ටිකල් ධාවකය"
+
+#: soliddeviceengine.cpp:223
+#, kde-format
+msgid "CD-R"
+msgstr "CD-R"
+
+#: soliddeviceengine.cpp:226
+#, kde-format
+msgid "CD-RW"
+msgstr "CD-RW"
+
+#: soliddeviceengine.cpp:229
+#, kde-format
+msgid "DVD"
+msgstr "DVD"
+
+#: soliddeviceengine.cpp:232
+#, kde-format
+msgid "DVD-R"
+msgstr "DVD-R"
+
+#: soliddeviceengine.cpp:235
+#, kde-format
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+#: soliddeviceengine.cpp:238
+#, kde-format
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+#: soliddeviceengine.cpp:241
+#, kde-format
+msgid "DVD+R"
+msgstr "DVD+R"
+
+#: soliddeviceengine.cpp:244
+#, kde-format
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+#: soliddeviceengine.cpp:247
+#, kde-format
+msgid "DVD+DL"
+msgstr "DVD+DL"
+
+#: soliddeviceengine.cpp:250
+#, kde-format
+msgid "DVD+DLRW"
+msgstr "DVD+DLRW"
+
+#: soliddeviceengine.cpp:253
+#, kde-format
+msgid "BD"
+msgstr "BD"
+
+#: soliddeviceengine.cpp:256
+#, kde-format
+msgid "BD-R"
+msgstr "BD-R"
+
+#: soliddeviceengine.cpp:259
+#, kde-format
+msgid "BD-RE"
+msgstr "BD-RE"
+
+#: soliddeviceengine.cpp:262
+#, kde-format
+msgid "HDDVD"
+msgstr "HDDVD"
+
+#: soliddeviceengine.cpp:265
+#, kde-format
+msgid "HDDVD-R"
+msgstr "HDDVD-R"
+
+#: soliddeviceengine.cpp:268
+#, kde-format
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+#: soliddeviceengine.cpp:270
+#, kde-format
+msgid "Supported Media"
+msgstr "සහාය දක්වන මාධ්‍ය"
+
+#: soliddeviceengine.cpp:272
+#, kde-format
+msgid "Read Speed"
+msgstr "කියවීමේ වේගය"
+
+#: soliddeviceengine.cpp:273
+#, kde-format
+msgid "Write Speed"
+msgstr "ලිවීමේ වේගය"
+
+#: soliddeviceengine.cpp:281
+#, kde-format
+msgid "Write Speeds"
+msgstr "ලිවීමේ වේගයන්"
+
+#: soliddeviceengine.cpp:290
+#, kde-format
+msgid "Storage Volume"
+msgstr "දත්ත පරිමාව"
+
+#: soliddeviceengine.cpp:293
+#, kde-format
+msgid "Other"
+msgstr "වෙනත්"
+
+#: soliddeviceengine.cpp:293
+#, kde-format
+msgid "Unused"
+msgstr "භාවිත නොකළ"
+
+#: soliddeviceengine.cpp:293
+#, kde-format
+msgid "File System"
+msgstr "ගොනු පද්ධතිය"
+
+#: soliddeviceengine.cpp:294
+#, fuzzy, kde-format
+msgid "Partition Table"
+msgstr "පාටිශන් වගුව"
+
+#: soliddeviceengine.cpp:294
+#, kde-format
+msgid "Raid"
+msgstr "Raid"
+
+#: soliddeviceengine.cpp:294
+#, kde-format
+msgid "Encrypted"
+msgstr "ගුප්ත කේතනය කල"
+
+#: soliddeviceengine.cpp:297 soliddeviceengine.cpp:299
+#, kde-format
+msgid "Usage"
+msgstr "භාවිතය"
+
+#: soliddeviceengine.cpp:299
+#, kde-format
+msgid "Unknown"
+msgstr "නොදන්නා"
+
+#: soliddeviceengine.cpp:302
+#, kde-format
+msgid "Ignored"
+msgstr "නොසැලකූ"
+
+#: soliddeviceengine.cpp:303
+#, kde-format
+msgid "File System Type"
+msgstr "ගොනු පද්ධති වර්‍ගය"
+
+#: soliddeviceengine.cpp:304
+#, kde-format
+msgid "Label"
+msgstr "ලේබලය"
+
+#: soliddeviceengine.cpp:305
+#, kde-format
+msgid "UUID"
+msgstr "UUID"
+
+#: soliddeviceengine.cpp:314
+#, kde-format
+msgid "Encrypted Container"
+msgstr "ගුප්ත කේතනය කල බහාළුමක්"
+
+#: soliddeviceengine.cpp:326
+#, kde-format
+msgid "OpticalDisc"
+msgstr "ඔප්ටික් තැටියක්"
+
+#: soliddeviceengine.cpp:332
+#, kde-format
+msgid "Audio"
+msgstr "ශ්‍රව්‍ය"
+
+#: soliddeviceengine.cpp:335
+#, kde-format
+msgid "Data"
+msgstr "දත්ත"
+
+#: soliddeviceengine.cpp:338
+#, kde-format
+msgid "Video CD"
+msgstr "වීඩියෝ CD"
+
+#: soliddeviceengine.cpp:341
+#, kde-format
+msgid "Super Video CD"
+msgstr "සුපිරි වීඩියෝ DVD"
+
+#: soliddeviceengine.cpp:344
+#, kde-format
+msgid "Video DVD"
+msgstr "වීඩියෝ DVD"
+
+#: soliddeviceengine.cpp:347
+#, kde-format
+msgid "Video Blu Ray"
+msgstr ""
+
+#: soliddeviceengine.cpp:349
+#, kde-format
+msgid "Available Content"
+msgstr "පවතින අන්තර්ගතය"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "Unknown Disc Type"
+msgstr "නොදන්නා තැටි වර්‍ගය"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "CD Rom"
+msgstr "CD රොම්"
+
+#: soliddeviceengine.cpp:352
+#, kde-format
+msgid "CD Recordable"
+msgstr "CD ලිවිය හැකි"
+
+#: soliddeviceengine.cpp:353
+#, kde-format
+msgid "CD Rewritable"
+msgstr "CD නැවත ලිවිය හැකි"
+
+#: soliddeviceengine.cpp:353
+#, kde-format
+msgid "DVD Rom"
+msgstr "DVD රොම්"
+
+#: soliddeviceengine.cpp:353
+#, kde-format
+msgid "DVD Ram"
+msgstr "DVD රැම්"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "DVD Recordable"
+msgstr "ලිවිය හැකි DVD"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "DVD Rewritable"
+msgstr "නැවත ලිවිය හැකි DVD"
+
+#: soliddeviceengine.cpp:354
+#, kde-format
+msgid "DVD Plus Recordable"
+msgstr "DVD Plus ලිවිය හැකි"
+
+#: soliddeviceengine.cpp:355
+#, kde-format
+msgid "DVD Plus Rewritable"
+msgstr "DVD Plus නැවත ලිවිය හැකි"
+
+#: soliddeviceengine.cpp:355
+#, kde-format
+msgid "DVD Plus Recordable Duallayer"
+msgstr "DVD Plus ලිවිය හැකි ද්විත්ව ලේයරය"
+
+#: soliddeviceengine.cpp:356
+#, kde-format
+msgid "DVD Plus Rewritable Duallayer"
+msgstr "DVD Plus නැවත ලිවිය හැකි ද්විත්ව ලේයරය"
+
+#: soliddeviceengine.cpp:356
+#, kde-format
+msgid "Blu Ray Rom"
+msgstr "Blu Ray රොම්"
+
+#: soliddeviceengine.cpp:356
+#, kde-format
+msgid "Blu Ray Recordable"
+msgstr "ලිවිය හැකි Blu Ray"
+
+#: soliddeviceengine.cpp:357
+#, kde-format
+msgid "Blu Ray Rewritable"
+msgstr "නැවත ලිවිය හැකි Blu Ray"
+
+#: soliddeviceengine.cpp:357
+#, kde-format
+msgid "HD DVD Rom"
+msgstr "HD DVD රොම්"
+
+#: soliddeviceengine.cpp:357
+#, fuzzy, kde-format
+msgid "HD DVD Recordable"
+msgstr "ලිවිය හැකි HD DVD"
+
+#: soliddeviceengine.cpp:358
+#, kde-format
+msgid "HD DVD Rewritable"
+msgstr "නැවත ලිවිය හැකි HD DVD"
+
+#: soliddeviceengine.cpp:360
+#, kde-format
+msgid "Disc Type"
+msgstr "තැටි වර්‍ගය"
+
+#: soliddeviceengine.cpp:361
+#, kde-format
+msgid "Appendable"
+msgstr "ඇමිණිය හැකි"
+
+#: soliddeviceengine.cpp:362
+#, kde-format
+msgid "Blank"
+msgstr "හිස්"
+
+#: soliddeviceengine.cpp:363
+#, kde-format
+msgid "Rewritable"
+msgstr "නැවත ලිවිය හැකි"
+
+#: soliddeviceengine.cpp:364
+#, kde-format
+msgid "Capacity"
+msgstr "ධාරිතාව"
+
+#: soliddeviceengine.cpp:372
+#, kde-format
+msgid "Camera"
+msgstr "කැමරාව"
+
+#: soliddeviceengine.cpp:374 soliddeviceengine.cpp:389
+#, kde-format
+msgid "Supported Protocols"
+msgstr "සහාය දක්වන නාමාවලි"
+
+#: soliddeviceengine.cpp:375 soliddeviceengine.cpp:390
+#, kde-format
+msgid "Supported Drivers"
+msgstr "සහාය දක්වන ධාවක"
+
+#: soliddeviceengine.cpp:387
+#, fuzzy, kde-format
+msgid "Portable Media Player"
+msgstr "ජංගම ධාවකය"
+
+#: soliddeviceengine.cpp:401
+#, kde-format
+msgid "Battery"
+msgstr "බැටරිය"
+
+#: soliddeviceengine.cpp:404
+#, kde-format
+msgid "Unknown Battery"
+msgstr "නොදන්නා බැටරියක්"
+
+#: soliddeviceengine.cpp:404
+#, kde-format
+msgid "PDA Battery"
+msgstr "PDA බැටරිය"
+
+#: soliddeviceengine.cpp:404
+#, kde-format
+msgid "UPS Battery"
+msgstr "UPS බැටරිය"
+
+#: soliddeviceengine.cpp:405
+#, kde-format
+msgid "Primary Battery"
+msgstr "ප්‍රධාන බැටරිය"
+
+#: soliddeviceengine.cpp:405
+#, kde-format
+msgid "Mouse Battery"
+msgstr "මවුස බැටරිය"
+
+#: soliddeviceengine.cpp:405
+#, kde-format
+msgid "Keyboard Battery"
+msgstr "යතුරුපුවරු බැටරිය"
+
+#: soliddeviceengine.cpp:406
+#, kde-format
+msgid "Keyboard Mouse Battery"
+msgstr "යතුරුපුවරු මවුස බැටරිය"
+
+#: soliddeviceengine.cpp:406
+#, kde-format
+msgid "Camera Battery"
+msgstr "කැමරා බැටරිය"
+
+#: soliddeviceengine.cpp:406
+#, fuzzy, kde-format
+#| msgid "Mouse Battery"
+msgid "Phone Battery"
+msgstr "මවුස බැටරිය"
+
+#: soliddeviceengine.cpp:407
+#, fuzzy, kde-format
+#| msgid "Mouse Battery"
+msgid "Monitor Battery"
+msgstr "මවුස බැටරිය"
+
+#: soliddeviceengine.cpp:407
+#, kde-format
+msgid "Gaming Input Battery"
+msgstr ""
+
+#: soliddeviceengine.cpp:407
+#, fuzzy, kde-format
+#| msgid "Mouse Battery"
+msgid "Bluetooth Battery"
+msgstr "මවුස බැටරිය"
+
+#: soliddeviceengine.cpp:410
+#, fuzzy, kde-format
+#| msgid "Charging"
+msgid "Not Charging"
+msgstr "ආරෝපනය වෙමින්"
+
+#: soliddeviceengine.cpp:410
+#, kde-format
+msgid "Charging"
+msgstr "ආරෝපනය වෙමින්"
+
+#: soliddeviceengine.cpp:410
+#, kde-format
+msgid "Discharging"
+msgstr "විසර්ජනය වෙමින්"
+
+#: soliddeviceengine.cpp:410
+#, kde-format
+msgid "Fully Charged"
+msgstr "සම්පූර්ණයෙන් ආරෝපිත"
+
+#: soliddeviceengine.cpp:412
+#, kde-format
+msgid "Plugged In"
+msgstr "ඇමිණූ"
+
+#: soliddeviceengine.cpp:413
+#, kde-format
+msgid "Type"
+msgstr "වර්‍ගය"
+
+#: soliddeviceengine.cpp:414
+#, kde-format
+msgid "Charge Percent"
+msgstr "ආරෝපිත ප්‍රමාණය"
+
+#: soliddeviceengine.cpp:415
+#, kde-format
+msgid "Rechargeable"
+msgstr "නැවත ආරෝපනය කල හැකි"
+
+#: soliddeviceengine.cpp:416
+#, kde-format
+msgid "Charge State"
+msgstr "තත්වය වෙනස් කරන්න"
+
+#: soliddeviceengine.cpp:441
+#, kde-format
+msgid "Type Description"
+msgstr ""
+
+#: soliddeviceengine.cpp:446
+#, kde-format
+msgid "Device Types"
+msgstr "උපකරණ වර්‍ගය"
+
+#: soliddeviceengine.cpp:473 soliddeviceengine.cpp:577
+#, kde-format
+msgid "Size"
+msgstr "ප්‍රමාණය"
+
+#: soliddeviceengine.cpp:557
+#, kde-format
+msgid "Filesystem is not responding"
+msgstr ""
+
+#: soliddeviceengine.cpp:558
+#, kde-format
+msgid "Filesystem mounted at '%1' is not responding"
+msgstr ""
+
+#: soliddeviceengine.cpp:575
+#, kde-format
+msgid "Free Space"
+msgstr "නිදහස් ඉඩ"
+
+#: soliddeviceengine.cpp:576
+#, fuzzy, kde-format
+#| msgid "Free Space"
+msgid "Free Space Text"
+msgstr "නිදහස් ඉඩ"
+
+#: soliddeviceengine.cpp:578
+#, fuzzy, kde-format
+#| msgid "Size"
+msgid "Size Text"
+msgstr "ප්‍රමාණය"
+
+#: soliddeviceengine.cpp:604
+#, kde-format
+msgid "Temperature"
+msgstr "උෂ්ණත්වය"
+
+#: soliddeviceengine.cpp:605
+#, kde-format
+msgid "Temperature Unit"
+msgstr "උෂ්ණත්ව ඒකකය"
+
+#: soliddeviceengine.cpp:649 soliddeviceengine.cpp:653
+#, kde-format
+msgid "In Use"
+msgstr ""

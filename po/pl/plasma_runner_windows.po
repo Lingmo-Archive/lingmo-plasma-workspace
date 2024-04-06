@@ -1,0 +1,205 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Maciej Wikło <maciej.wiklo@wp.pl>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-16 02:25+0200\n"
+"PO-Revision-Date: 2009-11-13 17:21+0100\n"
+"Last-Translator: Maciej Wikło <maciej.wiklo@wp.pl>\n"
+"Language-Team: Polish <kde-i18n-doc@kde.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: windowsrunner.cpp:44
+#, kde-format
+msgid ""
+"Finds windows whose name, window class or window role match :q:. It is "
+"possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"Szuka okien, których nazwa, klasa lub rola pasuje do :q:. Możliwa jest "
+"interakcja z oknami poprzez użycie jednego z następujących słów kluczowych: "
+"aktywuj, zamknij, min(imalizuj), maks(ymalizuj), pełny ekran, zwiń, nad "
+"innymi oknami oraz pod innymi oknami."
+
+#: windowsrunner.cpp:47
+#, kde-format
+msgid ""
+"Finds windows which are on desktop named :q: It is possible to interact with "
+"the windows by using one of the following keywords: activate, close, "
+"min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgstr ""
+"Szuka okien znajdujących się na pulpicie o nazwie :q: Możliwa jest "
+"interakcja z oknami poprzez użycie jednego z następujących słów kluczowych: "
+"aktywuj, zamknij, min(imalizuj), maks(ymalizuj), pełny ekran, zwiń, nad "
+"innymi oknami oraz pod innymi oknami."
+
+#: windowsrunner.cpp:50
+#, kde-format
+msgid "Switch to desktop named :q:"
+msgstr "Przełącz na pulpit :q:"
+
+#: windowsrunner.cpp:51 windowsrunner.cpp:173
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "window"
+msgstr "okno"
+
+#: windowsrunner.cpp:52
+#, kde-format
+msgid ""
+"Lists all windows and allows to activate them. With name=, class=, role= and "
+"desktop= the list can be reduced to windows matching these restrictions. It "
+"is possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"Wyświetla listę wszystkich okien i pozwala je aktywować. Z pomocą parametrów "
+"nazwa=, klasa=, rola= i pulpit= lista może być zredukowana do okien "
+"pasujących do tych ograniczeń. Możliwa jest interakcja z oknami poprzez "
+"użycie jednego z następujących słów kluczowych: aktywuj, zamknij, "
+"min(imalizuj), maks(ymalizuj), pełny ekran, zwiń, nad innymi oknami oraz pod "
+"innymi oknami."
+
+#: windowsrunner.cpp:57 windowsrunner.cpp:189 windowsrunner.cpp:251
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "desktop"
+msgstr "pulpit"
+
+#: windowsrunner.cpp:58
+#, kde-format
+msgid "Lists all other desktops and allows to switch to them."
+msgstr "Wyświetla listę wszystkich pulpitów i pozwala je przełączać."
+
+#: windowsrunner.cpp:139 windowsrunner.cpp:141
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "activate"
+msgstr "aktywuj"
+
+#: windowsrunner.cpp:142 windowsrunner.cpp:144
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "close"
+msgstr "zamknij"
+
+#: windowsrunner.cpp:145 windowsrunner.cpp:147
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "min"
+msgstr "min"
+
+#: windowsrunner.cpp:148 windowsrunner.cpp:150
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "minimize"
+msgstr "minimalizuj"
+
+#: windowsrunner.cpp:151 windowsrunner.cpp:153
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "max"
+msgstr "maks"
+
+#: windowsrunner.cpp:154 windowsrunner.cpp:156
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "maximize"
+msgstr "maksymalizuj"
+
+#: windowsrunner.cpp:157 windowsrunner.cpp:159
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "fullscreen"
+msgstr "pełny ekran"
+
+#: windowsrunner.cpp:160 windowsrunner.cpp:162
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "shade"
+msgstr "zwiń"
+
+#: windowsrunner.cpp:163 windowsrunner.cpp:165
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep above"
+msgstr "nad innymi oknami"
+
+#: windowsrunner.cpp:166 windowsrunner.cpp:168
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep below"
+msgstr "pod innymi oknami"
+
+#: windowsrunner.cpp:183
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "name"
+msgstr "nazwa"
+
+#: windowsrunner.cpp:185
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "class"
+msgstr "klasa"
+
+#: windowsrunner.cpp:187
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "role"
+msgstr "rola"
+
+#: windowsrunner.cpp:411
+#, kde-format
+msgid "Switch to desktop %1"
+msgstr "Przełącz na pulpit %1"
+
+#: windowsrunner.cpp:435
+#, kde-format
+msgid "Close running window on %1"
+msgstr "Zamknij okno na %1"
+
+#: windowsrunner.cpp:438
+#, kde-format
+msgid "(Un)minimize running window on %1"
+msgstr "Minimalizuj/przywróć okno na %1"
+
+#: windowsrunner.cpp:441
+#, kde-format
+msgid "Maximize/restore running window on %1"
+msgstr "Maksymalizuj/przywróć okno na %1"
+
+#: windowsrunner.cpp:444
+#, kde-format
+msgid "Toggle fullscreen for running window on %1"
+msgstr "Przełącz pełny ekran dla okna na %1"
+
+#: windowsrunner.cpp:447
+#, kde-format
+msgid "(Un)shade running window on %1"
+msgstr "(Roz)wiń okno na %1"
+
+#: windowsrunner.cpp:450
+#, kde-format
+msgid "Toggle keep above for running window on %1"
+msgstr "Przełącz ułożenie nad innymi oknami dla okna na %1"
+
+#: windowsrunner.cpp:453
+#, kde-format
+msgid "Toggle keep below running window on %1"
+msgstr "Przełącz ułożenie pod innymi oknami dla okna na %1"
+
+#: windowsrunner.cpp:457
+#, kde-format
+msgid "Activate running window on %1"
+msgstr "Aktywuj okno na %1"

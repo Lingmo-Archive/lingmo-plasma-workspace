@@ -1,0 +1,165 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Weng Xuetian <wengxt@gmail.cm>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-08-25 02:28+0200\n"
+"PO-Revision-Date: 2021-01-03 09:06\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/plasma-workspace/kcm_cursortheme.pot\n"
+"X-Crowdin-File-ID: 7131\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-china@kde.org"
+
+#. i18n: ectx: label, entry (cursorTheme), group (Mouse)
+#: cursorthemesettings.kcfg:9
+#, kde-format
+msgid "Name of the current cursor theme"
+msgstr "当前光标主题名称"
+
+#. i18n: ectx: label, entry (cursorSize), group (Mouse)
+#: cursorthemesettings.kcfg:13
+#, kde-format
+msgid "Current cursor size"
+msgstr "当前光标大小"
+
+#: kcmcursortheme.cpp:77
+#, kde-format
+msgid "Cursors"
+msgstr "光标"
+
+#: kcmcursortheme.cpp:78
+#, kde-format
+msgid "(c) 2003-2007 Fredrik Höglund"
+msgstr "(c) 2003-2007 Fredrik Höglund"
+
+#: kcmcursortheme.cpp:79
+#, kde-format
+msgid "Fredrik Höglund"
+msgstr "Fredrik Höglund"
+
+#: kcmcursortheme.cpp:80
+#, kde-format
+msgid "Marco Martin"
+msgstr "Marco Martin"
+
+#: kcmcursortheme.cpp:378
+#, kde-format
+msgid ""
+"You have to restart the Plasma session for these changes to take effect."
+msgstr "要让这些更改生效，您必须重新启动 Plasma 会话。"
+
+#: kcmcursortheme.cpp:467
+#, kde-format
+msgid "Unable to create a temporary file."
+msgstr "无法创建临时文件。"
+
+#: kcmcursortheme.cpp:479
+#, kde-format
+msgid "Unable to download the icon theme archive: %1"
+msgstr "无法下载图标主题存档：%1"
+
+#: kcmcursortheme.cpp:510
+#, kde-format
+msgid "The file is not a valid icon theme archive."
+msgstr "文件不是一个有效的图标主题归档。"
+
+#: kcmcursortheme.cpp:517
+#, kde-format
+msgid "Failed to create 'icons' folder."
+msgstr "未能创建 \"icons\" 文件夹。"
+
+#: kcmcursortheme.cpp:525
+#, kde-format
+msgid ""
+"A theme named %1 already exists in your icon theme folder. Do you want "
+"replace it with this one?"
+msgstr "已经在您的图标主题文件夹中存在名为 %1 的主题。您是否想要将其覆盖？"
+
+#: kcmcursortheme.cpp:529
+#, kde-format
+msgid "Overwrite Theme?"
+msgstr "覆盖主题吗？"
+
+#: kcmcursortheme.cpp:555
+#, kde-format
+msgid "Theme installed successfully."
+msgstr "主题安装成功。"
+
+#: package/contents/ui/Delegate.qml:66
+#, kde-format
+msgid "Remove Theme"
+msgstr "删除主题"
+
+#: package/contents/ui/Delegate.qml:73
+#, kde-format
+msgid "Restore Cursor Theme"
+msgstr "还原光标主题"
+
+#: package/contents/ui/main.qml:32
+#, kde-format
+msgid "This module lets you choose the mouse cursor theme."
+msgstr "此模块允许您选择鼠标光标主题。"
+
+#: package/contents/ui/main.qml:110
+#, kde-format
+msgid "Size:"
+msgstr "大小："
+
+#: package/contents/ui/main.qml:154
+#, kde-format
+msgid "&Install from File..."
+msgstr "从文件安装(&I)..."
+
+#: package/contents/ui/main.qml:161
+#, kde-format
+msgid "&Get New Cursors..."
+msgstr "获取新光标主题(&G)..."
+
+#: package/contents/ui/main.qml:183
+#, kde-format
+msgid "Open Theme"
+msgstr "打开主题"
+
+#: package/contents/ui/main.qml:185
+#, kde-format
+msgid "Cursor Theme Files (*.tar.gz *.tar.bz2)"
+msgstr "光标主题文件 (*.tar.gz *.tar.bz2)"
+
+#: xcursor/thememodel.cpp:85
+#, kde-format
+msgid "Name"
+msgstr "名称"
+
+#: xcursor/thememodel.cpp:88
+#, kde-format
+msgid "Description"
+msgstr "描述"
+
+#: xcursor/xcursortheme.cpp:74
+#, kde-format
+msgctxt ""
+"@info The argument is the list of available sizes (in pixel). Example: "
+"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
+msgid "(Available sizes: %1)"
+msgstr "(可用大小：%1)"

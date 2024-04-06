@@ -1,0 +1,208 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sushruth Tendulkar <sushtend@gmail.com>, 2009.
+# Vasudev Kamath <kamathvasudev@gmail.com>, 2009.
+# Shankar Prasad <svenkate@redhat.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-16 02:25+0200\n"
+"PO-Revision-Date: 2010-01-29 14:41+0530\n"
+"Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
+"Language-Team: kn-IN <>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: windowsrunner.cpp:44
+#, kde-format
+msgid ""
+"Finds windows whose name, window class or window role match :q:. It is "
+"possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+":q: ಗೆ ತಾಳೆಯಾಗುವ ಕಿಟಕಿಯ ಹೆಸರು, ಕಿಟಕಿಯ ವರ್ಗ, ಅಥವ ಕಿಟಕಿಯ ಪಾತ್ರವನ್ನು ಹೊಂದಿರುವ "
+"ಕಿಟಕಿಯನ್ನು ಹುಡುಕುತ್ತದೆ. ಈ ಕೆಳಗಿನ ಕೀಲಿ ಪದಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಕಿಟಕಿಗಳ ನಡುವೆ ಪರಸ್ಪರ "
+"ಸಂವಾದಾತ್ಮಕವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸಾಧ್ಯವಿದೆ: activate(ಸಕ್ರಿಯಗೊಳಿಸು), close(ಮುಚ್ಚು), "
+"min(imize)(ಕಿರಿದಾಗಿಸು), max(imize) (ಹಿರಿದಾಗಿಸು), fullscreen(ಪೂರ್ಣತೆರೆ), "
+"shade(ಛಾಯೆ), keep above (ಮೇಲೆ ಇರಿಸು) ಹಾಗು keep below(ಕೆಳಗೆ ಇರಿಸು)."
+
+#: windowsrunner.cpp:47
+#, kde-format
+msgid ""
+"Finds windows which are on desktop named :q: It is possible to interact with "
+"the windows by using one of the following keywords: activate, close, "
+"min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgstr ""
+":q: ಗೆ ತಾಳೆಯಾಗುವ ಗಣಕತೆರೆಯ ಹೆಸರಿನ ಗಣಕತೆರೆಯನ್ನು ಹುಡುಕುತ್ತದೆ. ಈ ಕೆಳಗಿನ ಕೀಲಿ "
+"ಪದಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಕಿಟಕಿಗಳ ನಡುವೆ ಪರಸ್ಪರ ಸಂವಾದಾತ್ಮಕವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸಾಧ್ಯವಿದೆ: "
+"activate(ಸಕ್ರಿಯಗೊಳಿಸು), close(ಮುಚ್ಚು), min(imize)(ಕಿರಿದಾಗಿಸು), max(imize) "
+"(ಹಿರಿದಾಗಿಸು), fullscreen(ಪೂರ್ಣತೆರೆ), shade(ಛಾಯೆ), keep above (ಮೇಲೆ ಇರಿಸು) "
+"ಹಾಗು keep below(ಕೆಳಗೆ ಇರಿಸು)."
+
+#: windowsrunner.cpp:50
+#, kde-format
+msgid "Switch to desktop named :q:"
+msgstr ":q: ಎಂಬ ಹೆಸರಿನ ಗಣಕತೆರೆಗೆ ಬದಲಿಸು"
+
+#: windowsrunner.cpp:51 windowsrunner.cpp:173
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "window"
+msgstr "ಕಿಟಕಿ"
+
+#: windowsrunner.cpp:52
+#, kde-format
+msgid ""
+"Lists all windows and allows to activate them. With name=, class=, role= and "
+"desktop= the list can be reduced to windows matching these restrictions. It "
+"is possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"ಎಲ್ಲಾ ಕಿಟಕಿಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡುತ್ತದೆ ಹಾಗೂ ಅವುಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಅನುವುಮಾಡುತ್ತದೆ. ಈ "
+"ಪಟ್ಟಿಯನ್ನು, ವರ್ಗ=, ಹೆಸರು=, ಪಾತ್ರ=, ಮತ್ತು ಗಣಕತೆರೆ=, ಅನ್ನು ಬಳಸಿ ಕಿರಿದಾಗಿಸಬಹುದು. ಈ "
+"ಕೆಳಗಿನ ಕೀಲಿ ಪದಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಕಿಟಕಿಗಳ ನಡುವೆ ಪರಸ್ಪರ ಸಂವಾದಾತ್ಮಕವಾಗಿ "
+"ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸಾಧ್ಯವಿದೆ: activate(ಸಕ್ರಿಯಗೊಳಿಸು), close(ಮುಚ್ಚು), min(imize)"
+"(ಕಿರಿದಾಗಿಸು), max(imize) (ಹಿರಿದಾಗಿಸು), fullscreen(ಪೂರ್ಣತೆರೆ), shade(ಛಾಯೆ), "
+"keep above (ಮೇಲೆ ಇರಿಸು) ಹಾಗು keep below(ಕೆಳಗೆ ಇರಿಸು)."
+
+#: windowsrunner.cpp:57 windowsrunner.cpp:189 windowsrunner.cpp:251
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "desktop"
+msgstr "ಗಣಕತೆರೆ"
+
+#: windowsrunner.cpp:58
+#, kde-format
+msgid "Lists all other desktops and allows to switch to them."
+msgstr ""
+"ಇತರ ಎಲ್ಲಾ ಗಣಕತೆರೆಗಳ ಪಟ್ಟಿ ಮಾಡುತ್ತದೆ ಹಾಗೂ ಅವುಗಳಿಗೆ ಬದಲಾಯಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. "
+
+#: windowsrunner.cpp:139 windowsrunner.cpp:141
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "activate"
+msgstr "ಸಕ್ರಿಯಗೊಳಿಸು"
+
+#: windowsrunner.cpp:142 windowsrunner.cpp:144
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "close"
+msgstr "ಮುಚ್ಚು"
+
+#: windowsrunner.cpp:145 windowsrunner.cpp:147
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "min"
+msgstr "ಕಿರಿದು"
+
+#: windowsrunner.cpp:148 windowsrunner.cpp:150
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "minimize"
+msgstr "ಕಿರಿದುಗೊಳಿಸು"
+
+#: windowsrunner.cpp:151 windowsrunner.cpp:153
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "max"
+msgstr "ಹಿರಿದು"
+
+#: windowsrunner.cpp:154 windowsrunner.cpp:156
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "maximize"
+msgstr "ಹಿರಿದುಗೊಳಿಸು"
+
+#: windowsrunner.cpp:157 windowsrunner.cpp:159
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "fullscreen"
+msgstr "ಪೂರ್ಣತೆರೆ"
+
+#: windowsrunner.cpp:160 windowsrunner.cpp:162
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "shade"
+msgstr "ಛಾಯೆ"
+
+#: windowsrunner.cpp:163 windowsrunner.cpp:165
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep above"
+msgstr "ಮೇಲೆ ಇರಿಸು"
+
+#: windowsrunner.cpp:166 windowsrunner.cpp:168
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep below"
+msgstr "ಕೆಳಗೆ ಇರಿಸು"
+
+#: windowsrunner.cpp:183
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "name"
+msgstr "ಹೆಸರು"
+
+#: windowsrunner.cpp:185
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "class"
+msgstr "ವರ್ಗ"
+
+#: windowsrunner.cpp:187
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "role"
+msgstr "ಪಾತ್ರ"
+
+#: windowsrunner.cpp:411
+#, kde-format
+msgid "Switch to desktop %1"
+msgstr "ಗಣಕತೆರೆ %1 ಕ್ಕೆ  ಬದಲಿಸು"
+
+#: windowsrunner.cpp:435
+#, kde-format
+msgid "Close running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯನ್ನು ಮುಚ್ಚು"
+
+#: windowsrunner.cpp:438
+#, kde-format
+msgid "(Un)minimize running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯನ್ನು ಕಿರಿದಾಗಿಸು"
+
+#: windowsrunner.cpp:441
+#, kde-format
+msgid "Maximize/restore running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯನ್ನು ಹಿರಿದಾಗಿಸು/ಮೊದಲಿನಂತೆ ಮಾಡು"
+
+#: windowsrunner.cpp:444
+#, kde-format
+msgid "Toggle fullscreen for running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯನ್ನು ಪೂರ್ಣತೆರೆಗೆ ಬದಲಾಯಿಸು"
+
+#: windowsrunner.cpp:447
+#, kde-format
+msgid "(Un)shade running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯ ಮಬ್ಬುಗೊಳಿಕೆಯನ್ನು(ಛಾಯೆ) ರದ್ದುಗೊಳಿಸು"
+
+#: windowsrunner.cpp:450
+#, kde-format
+msgid "Toggle keep above for running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯನ್ನು ಮೇಲೆ ಇರಿಸುವಂತೆ ಹೊರಳಿಸು"
+
+#: windowsrunner.cpp:453
+#, kde-format
+msgid "Toggle keep below running window on %1"
+msgstr "%1 ರಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುತ್ತಿರುವ ಕಿಟಕಿಯನ್ನು ಕೆಳಕ್ಕೆ ಇರಿಸುವಂತೆ ಹೊರಳಿಸು"
+
+#: windowsrunner.cpp:457
+#, kde-format
+msgid "Activate running window on %1"
+msgstr " %1 ರಲ್ಲಿ ಚಾಲನೆಯಲ್ಲಿರುವ ಕಿಟಕಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು"

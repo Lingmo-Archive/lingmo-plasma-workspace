@@ -1,0 +1,19 @@
+plasma-workspace: package-name-doesnt-match-sonames libkdeinit5-kcminit libkdeinit5-kcminit-startup libkdeinit5-klipper
+plasma-workspace: no-manual-page usr/bin/gmenudbusmenuproxy
+plasma-workspace: no-manual-page usr/bin/kcminit
+plasma-workspace: no-manual-page usr/bin/kcminit_startup
+plasma-workspace: no-manual-page usr/bin/klipper
+plasma-workspace: no-manual-page usr/bin/krunner
+plasma-workspace: no-manual-page usr/bin/ksmserver
+plasma-workspace: no-manual-page usr/bin/ksplashqml
+plasma-workspace: no-manual-page usr/bin/plasmashell
+plasma-workspace: no-manual-page usr/bin/plasmawindowed
+plasma-workspace: no-manual-page usr/bin/plasma-shutdown
+plasma-workspace: no-manual-page usr/bin/plasma_session
+plasma-workspace: no-manual-page usr/bin/plasma_waitforname
+plasma-workspace: no-manual-page usr/bin/startplasma-x11
+plasma-workspace: no-manual-page usr/bin/systemmonitor
+plasma-workspace: no-manual-page usr/bin/xembedsniproxy
+plasma-workspace: shared-library-lacks-version usr/lib/*/libkdeinit5_*.so libkdeinit5_*.so
+plasma-workspace: lacks-ldconfig-trigger usr/lib/*/libkdeinit5_*.so
+plasma-workspace: no-symbols-control-file usr/lib/*/libkdeinit5_*.so

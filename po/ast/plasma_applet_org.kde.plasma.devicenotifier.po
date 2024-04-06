@@ -1,0 +1,116 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-workspace package.
+#
+# enolp <enolp@softastur.org>, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-17 08:25+0200\n"
+"PO-Revision-Date: 2020-02-25 16:25+0100\n"
+"Last-Translator: enolp <enolp@softastur.org>\n"
+"Language-Team: Asturian <alministradores@softastur.org>\n"
+"Language: ast\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#: package/contents/ui/DeviceItem.qml:171
+#, fuzzy, kde-format
+#| msgctxt "@info:status Free disk space"
+#| msgid "%1 free"
+msgctxt "@info:status Free disk space"
+msgid "%1 free of %2"
+msgstr "%1 llibres"
+
+#: package/contents/ui/DeviceItem.qml:175
+#, kde-format
+msgctxt ""
+"Accessing is a less technical word for Mounting; translation should be short "
+"and mean 'Currently mounting this device'"
+msgid "Accessing..."
+msgstr "Accediendo…"
+
+#: package/contents/ui/DeviceItem.qml:177
+#, kde-format
+msgctxt ""
+"Removing is a less technical word for Unmounting; translation should be "
+"short and mean 'Currently unmounting this device'"
+msgid "Removing..."
+msgstr "Estrayendo…"
+
+#: package/contents/ui/DeviceItem.qml:203
+#, kde-format
+msgid "Open in File Manager"
+msgstr ""
+
+#: package/contents/ui/DeviceItem.qml:207
+#, kde-format
+msgid "Mount"
+msgstr ""
+
+#: package/contents/ui/DeviceItem.qml:209
+#, kde-format
+msgid "Eject"
+msgstr ""
+
+#: package/contents/ui/DeviceItem.qml:211
+#, kde-format
+msgid "Safely remove"
+msgstr ""
+
+#: package/contents/ui/devicenotifier.qml:60
+#, kde-format
+msgid "Most Recent Device"
+msgstr "El preséu más recién"
+
+#: package/contents/ui/devicenotifier.qml:60
+#, kde-format
+msgid "No Devices Available"
+msgstr "Nun hai preseos disponibles"
+
+#: package/contents/ui/devicenotifier.qml:234
+#, kde-format
+msgctxt "Open auto mounter kcm"
+msgid "Configure Removable Devices"
+msgstr "Configurar preseos estrayibles"
+
+#: package/contents/ui/FullRepresentation.qml:48
+#, kde-format
+msgid "Show:"
+msgstr "Amosar:"
+
+#: package/contents/ui/FullRepresentation.qml:55
+#, fuzzy, kde-format
+#| msgid "Removable devices only"
+msgid "Removable devices"
+msgstr "Namás preseos estrayibles"
+
+#: package/contents/ui/FullRepresentation.qml:56
+#, fuzzy, kde-format
+#| msgid "Non-removable devices only"
+msgid "Non-removable devices"
+msgstr "Namás preseos non estrayibles"
+
+#: package/contents/ui/FullRepresentation.qml:57
+#, kde-format
+msgid "All devices"
+msgstr "Tolos preseos"
+
+#: package/contents/ui/FullRepresentation.qml:99
+#, fuzzy, kde-format
+#| msgid "Remove all"
+msgid "Remove All"
+msgstr "Estrayer too"
+
+#: package/contents/ui/FullRepresentation.qml:102
+#, kde-format
+msgid "Click to safely remove all devices"
+msgstr "Calca pa estrayer tolos preseos de mou seguru"
+
+#: package/contents/ui/FullRepresentation.qml:228
+#, kde-format
+msgid "No devices available"
+msgstr "Nun hai preseos disponibles"

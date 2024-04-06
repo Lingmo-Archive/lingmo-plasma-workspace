@@ -1,0 +1,210 @@
+# Translation of plasma_runner_windows.po to Euskara/Basque (eu).
+# Copyright (C) 2010-2014, Free Software Foundation.
+# This file is distributed under the same license as the kde-workspace package.
+#
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2010, 2014.
+# marcos <marcos@euskalgnu.org>, 2010.
+# Hizkuntza Politikarako Sailburuordetza <hizpol@ej-gv.es>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_runner_windows\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-16 02:25+0200\n"
+"PO-Revision-Date: 2014-01-26 00:38+0100\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
+"Language-Team: Basque <kde-i18n-doc@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: windowsrunner.cpp:44
+#, kde-format
+msgid ""
+"Finds windows whose name, window class or window role match :q:. It is "
+"possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+":q:(r)ekin bat datorren izeneko, klaseko edo funtzioko leihoak aurkitzen "
+"ditu. Leihoekin elkarreraginean jardun daiteke gako-hitz hauetako bat "
+"erabiliz: aktibatu, itxi, minimizatu, maximizatu, pantaila osoa, bildu, "
+"mantendu gainean eta mantendu azpian."
+
+#: windowsrunner.cpp:47
+#, kde-format
+msgid ""
+"Finds windows which are on desktop named :q: It is possible to interact with "
+"the windows by using one of the following keywords: activate, close, "
+"min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgstr ""
+":q: izeneko leihoak aurkitzen ditu mahaigainean. Leihoekin elkarreraginean "
+"jardun daiteke gako-hitz hauetako bat erabiliz: aktibatu, itxi, minimizatu, "
+"maximizatu, pantaila osoa, bildu, mantendu gainean eta mantendu azpian."
+
+#: windowsrunner.cpp:50
+#, kde-format
+msgid "Switch to desktop named :q:"
+msgstr "Aldatu :q: izeneko mahaigainera"
+
+#: windowsrunner.cpp:51 windowsrunner.cpp:173
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "window"
+msgstr "leihoa"
+
+#: windowsrunner.cpp:52
+#, kde-format
+msgid ""
+"Lists all windows and allows to activate them. With name=, class=, role= and "
+"desktop= the list can be reduced to windows matching these restrictions. It "
+"is possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"Leiho guztiak zerrendatzen ditu, eta haiek aktibatzeko aukera ematen du. "
+"name=, class=, role= eta desktop= erabiliz, zerrenda murrizpen horiekin bat "
+"datozen leihoetara murriztu daiteke. Leihoekin elkarreraginean jardun "
+"daiteke gako-hauetako bat erabiliz: aktibatu, itxi, minimizatu, maximizatu, "
+"pantaila osoa, bildu, mantendu gainean eta mantendu azpian."
+
+#: windowsrunner.cpp:57 windowsrunner.cpp:189 windowsrunner.cpp:251
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "desktop"
+msgstr "mahaigaina"
+
+#: windowsrunner.cpp:58
+#, kde-format
+msgid "Lists all other desktops and allows to switch to them."
+msgstr ""
+"Beste mahaigain guztiak zerrendatzen ditu, eta haietara aldatzeko aukera "
+"ematen du."
+
+#: windowsrunner.cpp:139 windowsrunner.cpp:141
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "activate"
+msgstr "aktibatu"
+
+#: windowsrunner.cpp:142 windowsrunner.cpp:144
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "close"
+msgstr "itxi"
+
+#: windowsrunner.cpp:145 windowsrunner.cpp:147
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "min"
+msgstr "min"
+
+#: windowsrunner.cpp:148 windowsrunner.cpp:150
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "minimize"
+msgstr "minimizatu"
+
+#: windowsrunner.cpp:151 windowsrunner.cpp:153
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "max"
+msgstr "max"
+
+#: windowsrunner.cpp:154 windowsrunner.cpp:156
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "maximize"
+msgstr "maximizatu"
+
+#: windowsrunner.cpp:157 windowsrunner.cpp:159
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "fullscreen"
+msgstr "pantaila osoa"
+
+#: windowsrunner.cpp:160 windowsrunner.cpp:162
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "shade"
+msgstr "bildu"
+
+#: windowsrunner.cpp:163 windowsrunner.cpp:165
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep above"
+msgstr "mantendu gainean"
+
+#: windowsrunner.cpp:166 windowsrunner.cpp:168
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep below"
+msgstr "mantendu azpian"
+
+#: windowsrunner.cpp:183
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "name"
+msgstr "izena"
+
+#: windowsrunner.cpp:185
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "class"
+msgstr "klasea"
+
+#: windowsrunner.cpp:187
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "role"
+msgstr "funtzioa"
+
+#: windowsrunner.cpp:411
+#, kde-format
+msgid "Switch to desktop %1"
+msgstr "Aldatu %1 mahaigainera"
+
+#: windowsrunner.cpp:435
+#, kde-format
+msgid "Close running window on %1"
+msgstr "Itxi %1(e)(a)n exekutatzen ari den leihoa"
+
+#: windowsrunner.cpp:438
+#, kde-format
+msgid "(Un)minimize running window on %1"
+msgstr "Leheneratu/Minimizatu %1(e)(a)n exekutatzen ari den leihoa"
+
+#: windowsrunner.cpp:441
+#, kde-format
+msgid "Maximize/restore running window on %1"
+msgstr "Maximizatu/leheneratu %1(e)(a)n exekutatzen ari den leihoa"
+
+#: windowsrunner.cpp:444
+#, kde-format
+msgid "Toggle fullscreen for running window on %1"
+msgstr ""
+"Aktibatu/Desaktibatu %1(e)(a)n exekutatzen ari den leihoaren pantaila osoa"
+
+#: windowsrunner.cpp:447
+#, kde-format
+msgid "(Un)shade running window on %1"
+msgstr "Zabaldu/Tolestu %1(e)(a)n exekutatzen ari den leihoa"
+
+#: windowsrunner.cpp:450
+#, kde-format
+msgid "Toggle keep above for running window on %1"
+msgstr ""
+"Aktibatu/Desaktibatu gainean mantentzea %1(e)(a)n exekutatzen ari den leihoa"
+
+#: windowsrunner.cpp:453
+#, kde-format
+msgid "Toggle keep below running window on %1"
+msgstr ""
+"Aktibatu/Desaktibatu azpian mantentzea %1(e)(a)n exekutatzen ari den leihoa"
+
+#: windowsrunner.cpp:457
+#, kde-format
+msgid "Activate running window on %1"
+msgstr "Aktibatu %1(e)(a)n exekutatzen ari den leihoa"

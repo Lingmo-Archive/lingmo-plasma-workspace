@@ -1,0 +1,115 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-workspace package.
+#
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-09 04:03+0200\n"
+"PO-Revision-Date: 2019-09-15 13:55+0500\n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#: contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "Умумӣ"
+
+#: contents/ui/ConfigGeneral.qml:50
+#, kde-format
+msgctxt ""
+"Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
+msgid "Show actions:"
+msgstr "Намоиш додани амалиётҳо:"
+
+#: contents/ui/ConfigGeneral.qml:51
+#, kde-format
+msgid "Leave"
+msgstr "Баромад"
+
+#: contents/ui/ConfigGeneral.qml:57 contents/ui/data.js:4
+#, kde-format
+msgid "Lock"
+msgstr "Қулф кардани низом"
+
+#: contents/ui/ConfigGeneral.qml:62
+#, kde-format
+msgid "Switch User"
+msgstr "Иваз кардани корбар"
+
+#: contents/ui/ConfigGeneral.qml:67 contents/ui/data.js:26
+#: contents/ui/lockout.qml:124
+#, kde-format
+msgid "Hibernate"
+msgstr "Дар ҳолати ҷорӣ нигоҳ доштан"
+
+#: contents/ui/ConfigGeneral.qml:72 contents/ui/data.js:20
+#: contents/ui/lockout.qml:140
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "Ба хоб равондан"
+
+#: contents/ui/data.js:5
+#, kde-format
+msgid "Lock the screen"
+msgstr "Экранро қулф кардан"
+
+#: contents/ui/data.js:10
+#, kde-format
+msgid "Switch user"
+msgstr "Иваз кардани корбар"
+
+#: contents/ui/data.js:11
+#, kde-format
+msgid "Start a parallel session as a different user"
+msgstr "Оғоз кардани ҷаласаи мувозӣ ҳамчун корбари дигар"
+
+#: contents/ui/data.js:15
+#, kde-format
+msgid "Leave..."
+msgstr "Баромад..."
+
+#: contents/ui/data.js:16
+#, kde-format
+msgid "Log out, turn off or restart the computer"
+msgstr "Компютерро хомӯш кунед, аз нав ба кор дароред ё аз низом бароед"
+
+#: contents/ui/data.js:21
+#, kde-format
+msgid "Sleep (suspend to RAM)"
+msgstr "Ба хоб равондан (таваққуф кардан дар RAM)"
+
+#: contents/ui/data.js:27
+#, kde-format
+msgid "Hibernate (suspend to disk)"
+msgstr "Дар ҳолати ҷорӣ нигоҳ доштан (таваққуф кардан дар диск)"
+
+#: contents/ui/lockout.qml:125
+#, kde-format
+msgid "Do you want to suspend to disk (hibernate)?"
+msgstr ""
+"Шумо мехоҳед, ки низомро дар диск таваққуф кунед (дар ҳолати ҷорӣ нигоҳ "
+"доред)?"
+
+#: contents/ui/lockout.qml:128 contents/ui/lockout.qml:144
+#, kde-format
+msgid "Yes"
+msgstr "Ҳа"
+
+#: contents/ui/lockout.qml:129 contents/ui/lockout.qml:145
+#, kde-format
+msgid "No"
+msgstr "Не"
+
+#: contents/ui/lockout.qml:141
+#, kde-format
+msgid "Do you want to suspend to RAM (sleep)?"
+msgstr "Шумо мехоҳед, ки низомро дар RAM таваққуф кунед (ба хоб равонед)?"

@@ -1,0 +1,82 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-20 03:44+0100\n"
+"PO-Revision-Date: 2016-01-25 16:29+0100\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: ksolidnotify.cpp:166
+#, kde-format
+msgid "This device can now be safely removed."
+msgstr "Dit apparaat kan nu veilig worden verwijderd."
+
+#: ksolidnotify.cpp:173
+#, kde-format
+msgid "You are not authorized to mount this device."
+msgstr "U bent niet geautoriseerd om dit apparaat aan te koppelen."
+
+#: ksolidnotify.cpp:176
+#, kde-format
+msgctxt "Remove is less technical for unmount"
+msgid "You are not authorized to remove this device."
+msgstr "U bent niet geautoriseerd om dit apparaat te verwijderen."
+
+#: ksolidnotify.cpp:179
+#, kde-format
+msgid "You are not authorized to eject this disc."
+msgstr "U bent niet geautoriseerd om deze schijf uit te werpen."
+
+#: ksolidnotify.cpp:186
+#, kde-format
+msgid "Could not mount this device as it is busy."
+msgstr "Kon dit apparaat niet aankoppelen omdat het bezig is."
+
+#: ksolidnotify.cpp:216
+#, kde-format
+msgid "One or more files on this device are open within an application."
+msgstr "Een of meer bestanden op dit apparaat zijn in een toepassing geopend"
+
+#: ksolidnotify.cpp:218
+#, kde-format
+msgid "One or more files on this device are opened in application \"%2\"."
+msgid_plural ""
+"One or more files on this device are opened in following applications: %2."
+msgstr[0] ""
+"Een of meer bestanden op dit apparaat zijn geopend in programma \"%2\"."
+msgstr[1] ""
+"Een of meer bestanden op dit apparaat zijn geopend in de volgende "
+"toepassingen: %2."
+
+#: ksolidnotify.cpp:220
+#, kde-format
+msgctxt "separator in list of apps blocking device unmount"
+msgid ", "
+msgstr ", "
+
+#: ksolidnotify.cpp:237
+#, kde-format
+msgid "Could not mount this device."
+msgstr "Kon dit apparaat niet aankoppelen."
+
+#: ksolidnotify.cpp:240
+#, kde-format
+msgctxt "Remove is less technical for unmount"
+msgid "Could not remove this device."
+msgstr "Kon dit apparaat niet verwijderen."
+
+#: ksolidnotify.cpp:243
+#, kde-format
+msgid "Could not eject this disc."
+msgstr "Kon deze schijf miet uitwerpen."

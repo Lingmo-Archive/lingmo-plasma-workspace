@@ -1,0 +1,80 @@
+# translation of plasma_engine_mpris2.po to Khmer
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_engine_mpris2\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2012-06-14 10:35+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: multiplexedservice.cpp:85
+#, kde-format
+msgctxt "Name for global shortcuts category"
+msgid "Media Controller"
+msgstr ""
+
+#: multiplexedservice.cpp:87
+#, kde-format
+msgid "Play/Pause media playback"
+msgstr ""
+
+#: multiplexedservice.cpp:107
+#, kde-format
+msgid "Media playback next"
+msgstr ""
+
+#: multiplexedservice.cpp:118
+#, kde-format
+msgid "Media playback previous"
+msgstr ""
+
+#: multiplexedservice.cpp:129
+#, kde-format
+msgid "Stop media playback"
+msgstr ""
+
+#: multiplexedservice.cpp:140
+#, kde-format
+msgid "Media volume up"
+msgstr ""
+
+#: multiplexedservice.cpp:151
+#, kde-format
+msgid "Media volume down"
+msgstr ""
+
+#: playeractionjob.cpp:202
+#, kde-format
+msgid "The media player '%1' cannot perform the action '%2'."
+msgstr "កម្មវិធី​ចាក់​មេឌៀ '%1' មិន​អាច​អនុវត្ត​សកម្មភាព '%2' បាន​ទេ ។"
+
+#: playeractionjob.cpp:204
+#, kde-format
+msgid "Attempting to perform the action '%1' failed with the message '%2'."
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​​ប៉ុនប៉ង​អនុវត្ត​សកម្មភាព​ '%1' ដោយ​មាន​សារ '%2' ។"
+
+#: playeractionjob.cpp:207
+#, kde-format
+msgid "The argument '%1' for the action '%2' is missing or of the wrong type."
+msgstr "អាគុយម៉ង់ '%1' សម្រាប់​សកម្មភាព '%2' បាត់ ឬ​ខុស​ប្រភេទ ។"
+
+#: playeractionjob.cpp:209
+#, kde-format
+msgid "The operation '%1' is unknown."
+msgstr "មិនស្គាល់​ប្រតិបត្តិការ '%1' ។"
+
+#: playeractionjob.cpp:211
+#, kde-format
+msgid "Unknown error."
+msgstr "មិន​ស្គាល់​កំហុស ។"

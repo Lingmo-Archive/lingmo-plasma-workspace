@@ -1,0 +1,113 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# A S Alam <aalam@users.sf.net>, 2014, 2015, 2016, 2018, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-05-09 04:03+0200\n"
+"PO-Revision-Date: 2020-02-04 20:24-0800\n"
+"Last-Translator: A S Alam <alam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#: contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "ਆਮ"
+
+#: contents/ui/ConfigGeneral.qml:50
+#, kde-format
+msgctxt ""
+"Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
+msgid "Show actions:"
+msgstr "ਕਾਰਵਾਈਆਂ ਵੇਖਾਓ:"
+
+#: contents/ui/ConfigGeneral.qml:51
+#, kde-format
+msgid "Leave"
+msgstr "ਛੱਡੋ"
+
+#: contents/ui/ConfigGeneral.qml:57 contents/ui/data.js:4
+#, kde-format
+msgid "Lock"
+msgstr "ਲਾਕ"
+
+#: contents/ui/ConfigGeneral.qml:62
+#, kde-format
+msgid "Switch User"
+msgstr "ਵਰਤੋਂਕਾਰ ਬਦਲੋ"
+
+#: contents/ui/ConfigGeneral.qml:67 contents/ui/data.js:26
+#: contents/ui/lockout.qml:124
+#, kde-format
+msgid "Hibernate"
+msgstr "ਹਾਈਬਰਨੇਟ"
+
+#: contents/ui/ConfigGeneral.qml:72 contents/ui/data.js:20
+#: contents/ui/lockout.qml:140
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "ਸਲੀਪ"
+
+#: contents/ui/data.js:5
+#, kde-format
+msgid "Lock the screen"
+msgstr "ਸਕਰੀਨ ਨੂੰ ਲਾਕ ਕਰੋ"
+
+#: contents/ui/data.js:10
+#, kde-format
+msgid "Switch user"
+msgstr "ਵਰਤੋਂਕਾਰ ਬਦਲੋ"
+
+#: contents/ui/data.js:11
+#, kde-format
+msgid "Start a parallel session as a different user"
+msgstr "ਵੱਖਰੇ ਵਰਤੋਂਕਾਰ ਵਾਂਗ ਸਮਾਂਤਰ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ"
+
+#: contents/ui/data.js:15
+#, kde-format
+msgid "Leave..."
+msgstr "...ਛੱਡੋ"
+
+#: contents/ui/data.js:16
+#, kde-format
+msgid "Log out, turn off or restart the computer"
+msgstr "ਕੰਪਿਊਟਰ ਨੂੰ ਲਾਗ-ਆਉਟ ਕਰੋ, ਬੰਦ ਕਰੋ ਜਾਂ ਮੁੜ-ਚਾਲੂ ਕਰੋ"
+
+#: contents/ui/data.js:21
+#, kde-format
+msgid "Sleep (suspend to RAM)"
+msgstr "ਸਲੀਪ (RAM ਉੱਤੇ ਸਸਪੈਂਡ ਕਰੋ)"
+
+#: contents/ui/data.js:27
+#, kde-format
+msgid "Hibernate (suspend to disk)"
+msgstr "ਹਾਈਬਰਨੇਟ (ਡਿਸਕ ਉੱਤੇ ਸਸਪੈਂਡ ਕਰੋ)"
+
+#: contents/ui/lockout.qml:125
+#, kde-format
+msgid "Do you want to suspend to disk (hibernate)?"
+msgstr "ਕੀ ਤੁਸੀਂ ਡਿਸਕ ਉੱਤੇ ਸਸਪੈਂਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ (ਹਾਈਬਰਨੇਟ)?"
+
+#: contents/ui/lockout.qml:128 contents/ui/lockout.qml:144
+#, kde-format
+msgid "Yes"
+msgstr "ਹਾਂ"
+
+#: contents/ui/lockout.qml:129 contents/ui/lockout.qml:145
+#, kde-format
+msgid "No"
+msgstr "ਨਹੀਂ"
+
+#: contents/ui/lockout.qml:141
+#, kde-format
+msgid "Do you want to suspend to RAM (sleep)?"
+msgstr "ਕੀ ਤੁਸੀਂ ਰੈਮ ਉੱਤੇ ਸਸਪੈਂਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ (ਸਲੀਪ)?"

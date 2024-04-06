@@ -1,0 +1,212 @@
+# translation of plasma_runner_windows.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# xavier <ktranslator31@yahoo.fr>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_runner_windows\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-16 02:25+0200\n"
+"PO-Revision-Date: 2013-04-26 14:55+0200\n"
+"Last-Translator: xavier <ktranslator31@yahoo.fr>\n"
+"Language-Team: French <kde-i18n-doc@kde.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: windowsrunner.cpp:44
+#, kde-format
+msgid ""
+"Finds windows whose name, window class or window role match :q:. It is "
+"possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"Cherche les fenêtres dont le nom, la classe ou le rôle correspondent à « :"
+"q: ». Il est possible d'interagir avec les fenêtres en utilisant un des mots "
+"clés suivants : activer, fermer, min(minimiser), max(maximiser), plein "
+"écran, ombre, conserver au-dessus et conserver au-dessous."
+
+#: windowsrunner.cpp:47
+#, kde-format
+msgid ""
+"Finds windows which are on desktop named :q: It is possible to interact with "
+"the windows by using one of the following keywords: activate, close, "
+"min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgstr ""
+"Cherche des fenêtres présentes sur le bureau, nommées « :q: ». Il est "
+"possible d'interagir avec les fenêtres en utilisant un des mots clés "
+"suivants : activer, fermer, min(minimiser), max(maximiser), plein écran, "
+"ombre, conserver au-dessus et conserver au-dessous."
+
+#: windowsrunner.cpp:50
+#, kde-format
+msgid "Switch to desktop named :q:"
+msgstr "Bascule vers un bureau nommé « :q: »"
+
+#: windowsrunner.cpp:51 windowsrunner.cpp:173
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "window"
+msgstr "fenêtre"
+
+#: windowsrunner.cpp:52
+#, kde-format
+msgid ""
+"Lists all windows and allows to activate them. With name=, class=, role= and "
+"desktop= the list can be reduced to windows matching these restrictions. It "
+"is possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"Liste toutes les fenêtres et permet de les activer. Avec « name= », "
+"« class= », « role= » et « desktop= », la liste peut être réduite aux "
+"fenêtres correspondant à ces restrictions. Il est possible d'interagir avec "
+"les fenêtres à l'aide des mots clés suivants : activer, fermer, "
+"min(minimiser), max(maximiser), plein écran, ombre, conserver au-dessus et "
+"conserver au-dessous."
+
+#: windowsrunner.cpp:57 windowsrunner.cpp:189 windowsrunner.cpp:251
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "desktop"
+msgstr "bureau"
+
+#: windowsrunner.cpp:58
+#, kde-format
+msgid "Lists all other desktops and allows to switch to them."
+msgstr "Liste tous les autres bureaux et permet de passer de l'un à l'autre."
+
+#: windowsrunner.cpp:139 windowsrunner.cpp:141
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "activate"
+msgstr "activer"
+
+#: windowsrunner.cpp:142 windowsrunner.cpp:144
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "close"
+msgstr "fermer"
+
+#: windowsrunner.cpp:145 windowsrunner.cpp:147
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "min"
+msgstr "min"
+
+#: windowsrunner.cpp:148 windowsrunner.cpp:150
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "minimize"
+msgstr "minimiser"
+
+#: windowsrunner.cpp:151 windowsrunner.cpp:153
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "max"
+msgstr "max"
+
+#: windowsrunner.cpp:154 windowsrunner.cpp:156
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "maximize"
+msgstr "maximiser"
+
+#: windowsrunner.cpp:157 windowsrunner.cpp:159
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "fullscreen"
+msgstr "plein écran"
+
+#: windowsrunner.cpp:160 windowsrunner.cpp:162
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "shade"
+msgstr "ombre"
+
+#: windowsrunner.cpp:163 windowsrunner.cpp:165
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep above"
+msgstr "conserver au-dessus"
+
+#: windowsrunner.cpp:166 windowsrunner.cpp:168
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep below"
+msgstr "conserver au-dessous"
+
+#: windowsrunner.cpp:183
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "name"
+msgstr "nom"
+
+#: windowsrunner.cpp:185
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "class"
+msgstr "classe"
+
+#: windowsrunner.cpp:187
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "role"
+msgstr "rôle"
+
+#: windowsrunner.cpp:411
+#, kde-format
+msgid "Switch to desktop %1"
+msgstr "Basculer vers le bureau %1"
+
+#: windowsrunner.cpp:435
+#, kde-format
+msgid "Close running window on %1"
+msgstr "Fermer la fenêtre active sur %1"
+
+#: windowsrunner.cpp:438
+#, kde-format
+msgid "(Un)minimize running window on %1"
+msgstr "Agrandir la fenêtre active sur %1"
+
+#: windowsrunner.cpp:441
+#, kde-format
+msgid "Maximize/restore running window on %1"
+msgstr "Maximiser/restaurer la fenêtre active sur %1"
+
+#: windowsrunner.cpp:444
+#, kde-format
+msgid "Toggle fullscreen for running window on %1"
+msgstr "Activer / Désactiver le mode plein écran pour la fenêtre active sur %1"
+
+#: windowsrunner.cpp:447
+#, kde-format
+msgid "(Un)shade running window on %1"
+msgstr "Supprimer l'ombre / ombrer la fenêtre active sur %1"
+
+#: windowsrunner.cpp:450
+#, kde-format
+msgid "Toggle keep above for running window on %1"
+msgstr ""
+"Activer / Désactiver l'option « Conserver au-dessus » pour la fenêtre active "
+"sur %1"
+
+#: windowsrunner.cpp:453
+#, kde-format
+msgid "Toggle keep below running window on %1"
+msgstr ""
+"Activer / Désactiver l'option « Conserver au-dessus » pour la fenêtre active "
+"sur %1"
+
+#: windowsrunner.cpp:457
+#, kde-format
+msgid "Activate running window on %1"
+msgstr "Activer la fenêtre active sur %1"

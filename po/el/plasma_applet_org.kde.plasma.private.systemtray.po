@@ -1,0 +1,145 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Dimitris Kardarakos <dimkard@gmail.com>, 2014, 2015, 2017.
+# Dimitrios Glentadakis <dglent@free.fr>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-04 08:18+0200\n"
+"PO-Revision-Date: 2017-01-19 19:38+0200\n"
+"Last-Translator: Dimitris Kardarakos <dimkard@gmail.com>\n"
+"Language-Team: Greek <kde-i18n-el@kde.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: package/contents/config/config.qml:26
+#, kde-format
+msgid "General"
+msgstr "Γενικά"
+
+#: package/contents/config/config.qml:31
+#, kde-format
+msgid "Entries"
+msgstr "Καταχωρήσεις"
+
+#: package/contents/ui/ConfigEntries.qml:40
+#, kde-format
+msgid "Always show all entries"
+msgstr "Εμφάνιση πάντοτε όλων των καταχωρήσεων"
+
+#: package/contents/ui/ConfigEntries.qml:46
+#, kde-format
+msgid "Application Status"
+msgstr "Κατάσταση εφαρμογής"
+
+#: package/contents/ui/ConfigEntries.qml:48
+#, kde-format
+msgid "Communications"
+msgstr "Επικοινωνίες"
+
+#: package/contents/ui/ConfigEntries.qml:50
+#, kde-format
+msgid "System Services"
+msgstr "Υπηρεσίες συστήματος"
+
+#: package/contents/ui/ConfigEntries.qml:52
+#, kde-format
+msgid "Hardware Control"
+msgstr "Έλεγχος υλικού"
+
+#: package/contents/ui/ConfigEntries.qml:55
+#, kde-format
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+#: package/contents/ui/ConfigEntries.qml:87
+#, kde-format
+msgctxt "Name of the system tray entry"
+msgid "Entry"
+msgstr "Καταχώρηση"
+
+#: package/contents/ui/ConfigEntries.qml:92
+#, kde-format
+msgid "Visibility"
+msgstr "Ορατότητα"
+
+#: package/contents/ui/ConfigEntries.qml:98
+#, kde-format
+msgid "Keyboard Shortcut"
+msgstr "Συντόμευση πληκτρολογίου"
+
+#: package/contents/ui/ConfigEntries.qml:228
+#, kde-format
+msgid "Shown when relevant"
+msgstr ""
+
+#: package/contents/ui/ConfigEntries.qml:229
+#, fuzzy, kde-format
+#| msgid "Always show all entries"
+msgid "Always shown"
+msgstr "Εμφάνιση πάντοτε όλων των καταχωρήσεων"
+
+#: package/contents/ui/ConfigEntries.qml:230
+#, kde-format
+msgid "Always hidden"
+msgstr ""
+
+#: package/contents/ui/ConfigEntries.qml:231
+#, fuzzy, kde-format
+#| msgid "Enabled"
+msgid "Disabled"
+msgstr "Ενεργοποιημένη"
+
+#: package/contents/ui/ConfigGeneral.qml:36
+#, fuzzy, kde-format
+#| msgid "Icon size:"
+msgctxt "The arrangement of system tray icons in the Panel"
+msgid "Panel icon size:"
+msgstr "Μέγεθος εικονιδίων:"
+
+#: package/contents/ui/ConfigGeneral.qml:37
+#, kde-format
+msgid "Small"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:43
+#, kde-format
+msgid "Scale with Panel height"
+msgstr ""
+
+#: package/contents/ui/ConfigGeneral.qml:44
+#, kde-format
+msgid "Scale with Panel width"
+msgstr ""
+
+#: package/contents/ui/ExpandedRepresentation.qml:86
+#, fuzzy, kde-format
+#| msgid "Status & Notifications"
+msgid "Status and Notifications"
+msgstr "Κατάσταση και ειδοποιήσεις"
+
+#: package/contents/ui/ExpandedRepresentation.qml:111
+#, kde-format
+msgid "Keep Open"
+msgstr ""
+
+#: package/contents/ui/ExpanderArrow.qml:33
+#, kde-format
+msgid "Close popup"
+msgstr "Κλείσιμο αναδυόμενου"
+
+#: package/contents/ui/ExpanderArrow.qml:33
+#, kde-format
+msgid "Show hidden icons"
+msgstr "Εμφάνιση κρυφών εικονιδίων"
+
+#: systemtraymodel.cpp:158 systemtraymodel.cpp:196
+#, kde-format
+msgid " (Automatic load)"
+msgstr " (Αυτόματη φόρτωση)"

@@ -1,0 +1,123 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Diego Iastrubni <elcuco@kde.org>, 2008, 2013.
+# elkana bardugo <ttv200@gmail.com>, 2016.
+# Elkana Bardugo <ttv200@gmail.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org.kde.plasma.devicenotifier\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-17 08:25+0200\n"
+"PO-Revision-Date: 2017-05-16 06:55-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Hebrew <kde-i18n-doc@kde.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Zanata 3.9.6\n"
+
+#: package/contents/ui/DeviceItem.qml:171
+#, fuzzy, kde-format
+#| msgctxt "@info:status Free disk space"
+#| msgid "%1 free"
+msgctxt "@info:status Free disk space"
+msgid "%1 free of %2"
+msgstr "%1 פנוי"
+
+#: package/contents/ui/DeviceItem.qml:175
+#, kde-format
+msgctxt ""
+"Accessing is a less technical word for Mounting; translation should be short "
+"and mean 'Currently mounting this device'"
+msgid "Accessing..."
+msgstr "ניגש..."
+
+#: package/contents/ui/DeviceItem.qml:177
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "Removing is a less technical word for Unmounting; translation shoud be "
+#| "short and mean 'Currently unmounting this device'"
+#| msgid "Removing..."
+msgctxt ""
+"Removing is a less technical word for Unmounting; translation should be "
+"short and mean 'Currently unmounting this device'"
+msgid "Removing..."
+msgstr "מסיר..."
+
+#: package/contents/ui/DeviceItem.qml:203
+#, kde-format
+msgid "Open in File Manager"
+msgstr ""
+
+#: package/contents/ui/DeviceItem.qml:207
+#, kde-format
+msgid "Mount"
+msgstr ""
+
+#: package/contents/ui/DeviceItem.qml:209
+#, kde-format
+msgid "Eject"
+msgstr ""
+
+#: package/contents/ui/DeviceItem.qml:211
+#, kde-format
+msgid "Safely remove"
+msgstr ""
+
+#: package/contents/ui/devicenotifier.qml:60
+#, kde-format
+msgid "Most Recent Device"
+msgstr "ההתקן ההכי חדש"
+
+#: package/contents/ui/devicenotifier.qml:60
+#, kde-format
+msgid "No Devices Available"
+msgstr "אין התקנים זמינים"
+
+#: package/contents/ui/devicenotifier.qml:234
+#, kde-format
+msgctxt "Open auto mounter kcm"
+msgid "Configure Removable Devices"
+msgstr "הגדרת התקנים נשלפים"
+
+#: package/contents/ui/FullRepresentation.qml:48
+#, kde-format
+msgid "Show:"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:55
+#, fuzzy, kde-format
+#| msgid "Removable devices only"
+msgid "Removable devices"
+msgstr "התקנים הניתנים להסרה"
+
+#: package/contents/ui/FullRepresentation.qml:56
+#, fuzzy, kde-format
+#| msgid "Non-removable devices only"
+msgid "Non-removable devices"
+msgstr "התקנים קבועים"
+
+#: package/contents/ui/FullRepresentation.qml:57
+#, kde-format
+msgid "All devices"
+msgstr "כל ההתקנים"
+
+#: package/contents/ui/FullRepresentation.qml:99
+#, kde-format
+msgid "Remove All"
+msgstr ""
+
+#: package/contents/ui/FullRepresentation.qml:102
+#, fuzzy, kde-format
+#| msgid "Click to safely remove this device."
+msgid "Click to safely remove all devices"
+msgstr "לחץ כדי להסיר ההתקן בבטחה."
+
+#: package/contents/ui/FullRepresentation.qml:228
+#, fuzzy, kde-format
+#| msgid "No Devices Available"
+msgid "No devices available"
+msgstr "אין התקנים זמינים"

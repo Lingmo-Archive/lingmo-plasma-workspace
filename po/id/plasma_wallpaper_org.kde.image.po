@@ -1,0 +1,227 @@
+# Indonesian translations for plasma_wallpaper_image package.
+# Copyright (C) 2010 This_file_is_part_of_KDE
+# This file is distributed under the same license as the plasma_wallpaper_image package.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2010-2014.
+# Wantoyo <wantoyek@gmail.com>, 2017, 2018, 2019, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_wallpaper_image\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-29 02:27+0200\n"
+"PO-Revision-Date: 2020-02-23 07:47+0700\n"
+"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
+"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.1\n"
+
+#: image.cpp:251
+#, kde-format
+msgid "Recommended wallpaper file"
+msgstr "File wallpaper yang direkomendasikan"
+
+#: image.cpp:414
+#, kde-format
+msgid "Directory with the wallpaper to show slides from"
+msgstr "Direktori dengan wallpaper untuk menampilkan salindia"
+
+#: image.cpp:716
+#, kde-format
+msgid "Open Image"
+msgstr "Buka Citra"
+
+#: image.cpp:718
+#, kde-format
+msgid "Image Files"
+msgstr "File Citra"
+
+#: imagepackage/contents/ui/config.qml:91
+#, kde-format
+msgid "Positioning:"
+msgstr "Letak:"
+
+#: imagepackage/contents/ui/config.qml:94
+#, kde-format
+msgid "Scaled and Cropped"
+msgstr "Diskalakan dan Dipangkas"
+
+#: imagepackage/contents/ui/config.qml:98
+#, kde-format
+msgid "Scaled"
+msgstr "Diskalakan"
+
+#: imagepackage/contents/ui/config.qml:102
+#, kde-format
+msgid "Scaled, Keep Proportions"
+msgstr "Diskalakan, Jaga Proporsi"
+
+#: imagepackage/contents/ui/config.qml:106
+#, kde-format
+msgid "Centered"
+msgstr "Dipusatkan"
+
+#: imagepackage/contents/ui/config.qml:110
+#, kde-format
+msgid "Tiled"
+msgstr "Diubinkan"
+
+#: imagepackage/contents/ui/config.qml:133
+#, kde-format
+msgid "Order:"
+msgstr "Urutan:"
+
+#: imagepackage/contents/ui/config.qml:136
+#, kde-format
+msgid "Random"
+msgstr "Acak"
+
+#: imagepackage/contents/ui/config.qml:140
+#, kde-format
+msgid "A to Z"
+msgstr "A ke Z"
+
+#: imagepackage/contents/ui/config.qml:144
+#, kde-format
+msgid "Z to A"
+msgstr "Z ke A"
+
+#: imagepackage/contents/ui/config.qml:148
+#, kde-format
+msgid "Date modified (newest first)"
+msgstr "Tanggal dimodifikasi (yang paling baru dulu)"
+
+#: imagepackage/contents/ui/config.qml:152
+#, kde-format
+msgid "Date modified (oldest first)"
+msgstr "Tanggal dimodifikasi (yang paling lawas dulu)"
+
+#: imagepackage/contents/ui/config.qml:175
+#, kde-format
+msgid "Background:"
+msgstr "LatarBelakang:"
+
+#: imagepackage/contents/ui/config.qml:176
+#, kde-format
+msgid "Blur"
+msgstr "Buram"
+
+#: imagepackage/contents/ui/config.qml:185
+#, kde-format
+msgid "Solid color"
+msgstr "Warna padat"
+
+#: imagepackage/contents/ui/config.qml:191
+#, kde-format
+msgid "Select Background Color"
+msgstr "Pilih Warna LatarBelakang:"
+
+#: imagepackage/contents/ui/config.qml:209
+#, kde-format
+msgid "Change every:"
+msgstr "Ubah tiap:"
+
+#: imagepackage/contents/ui/config.qml:219
+#, kde-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "%1 jam"
+msgstr[1] "%1 jam"
+
+#: imagepackage/contents/ui/config.qml:234
+#, kde-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 menit"
+msgstr[1] "%1 menit"
+
+#: imagepackage/contents/ui/config.qml:249
+#, kde-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 detik"
+msgstr[1] "%1 detik"
+
+#: imagepackage/contents/ui/config.qml:258
+#, kde-format
+msgid "Folders"
+msgstr "Folder"
+
+#: imagepackage/contents/ui/config.qml:306
+#, kde-format
+msgid "Remove Folder"
+msgstr "Hapus Folder"
+
+#: imagepackage/contents/ui/config.qml:311
+#, kde-format
+msgid "Open Folder"
+msgstr "Buka Folder"
+
+#: imagepackage/contents/ui/config.qml:325
+#, kde-format
+msgid "There are no wallpaper locations configured"
+msgstr "Tidak adanya lokasi wallpaper yang dikonfigurasi"
+
+#: imagepackage/contents/ui/config.qml:339
+#, kde-format
+msgid "Add Folder..."
+msgstr "Tambah Folder..."
+
+#: imagepackage/contents/ui/config.qml:345
+#: imagepackage/contents/ui/config.qml:433
+#, kde-format
+msgid "Get New Wallpapers..."
+msgstr "Dapatkan Wallpaper Baru..."
+
+#: imagepackage/contents/ui/config.qml:386
+#, kde-format
+msgid "There are no wallpapers in this slideshow"
+msgstr "Tidak adanya wallpaper dalam salindia ini"
+
+#: imagepackage/contents/ui/config.qml:427
+#, kde-format
+msgid "Add Image..."
+msgstr "Tambahkan Citra"
+
+#: imagepackage/contents/ui/main.qml:67
+#, kde-format
+msgid "Open Wallpaper Image"
+msgstr "Buka Citra Wallpaper"
+
+#: imagepackage/contents/ui/main.qml:68
+#, kde-format
+msgid "Next Wallpaper Image"
+msgstr "Citra Wallpaper Selanjutnya"
+
+#: imagepackage/contents/ui/WallpaperDelegate.qml:43
+#, kde-format
+msgid "Open Containing Folder"
+msgstr "Buka Folder Yang Berisi Ini"
+
+#: imagepackage/contents/ui/WallpaperDelegate.qml:49
+#, kde-format
+msgid "Restore wallpaper"
+msgstr "Kembalikan wallpaper"
+
+#: imagepackage/contents/ui/WallpaperDelegate.qml:54
+#, kde-format
+msgid "Remove Wallpaper"
+msgstr "Hapus Wallpaper"
+
+#: imagepackage/platformcontents/phone/ui/config.qml:80
+#, kde-format
+msgid "Add Custom Wallpaper"
+msgstr "Tambahkan Wallpaper Kustom"
+
+#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:94
+#, kde-format
+msgid "Remove wallpaper"
+msgstr "Dapatkan wallpaper"
+
+#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:122
+#, kde-format
+msgid "%1 by %2"
+msgstr "%1 oleh %2"

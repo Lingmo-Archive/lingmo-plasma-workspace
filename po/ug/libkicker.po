@@ -1,0 +1,314 @@
+# Uyghur translation for plasma_applet_org.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Gheyret Kenji <gheyret@gmail.com>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_applet_org\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-09 09:02+0200\n"
+"PO-Revision-Date: 2013-09-08 07:05+0900\n"
+"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"Language-Team: Uyghur <kde-i18n-doc@kde.org>\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugin/actionlist.cpp:97
+#, kde-format
+msgid "Open with:"
+msgstr "ئاچىدىغان پروگرامما:"
+
+#: plugin/actionlist.cpp:109
+#, kde-format
+msgid "Properties"
+msgstr "خاسلىق"
+
+#: plugin/actionlist.cpp:156
+#, kde-format
+msgid "Add to Desktop"
+msgstr "ئۈستەلئۈستىگە قوش"
+
+#: plugin/actionlist.cpp:161
+#, fuzzy, kde-format
+msgid "Add to Panel (Widget)"
+msgstr "تاختىغا قوش"
+
+#: plugin/actionlist.cpp:166
+#, kde-format
+msgid "Pin to Task Manager"
+msgstr ""
+
+#: plugin/actionlist.cpp:275 plugin/rootmodel.cpp:411
+#, fuzzy, kde-format
+#| msgid "Recent Documents"
+msgid "Recent Files"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/actionlist.cpp:284
+#, fuzzy, kde-format
+msgid "Forget Recent Files"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/actionlist.cpp:345
+#, fuzzy, kde-format
+msgid "Edit Application..."
+msgstr "پروگراممىلار"
+
+#: plugin/actionlist.cpp:392
+#, kde-format
+msgctxt "@action opens a software center with the application"
+msgid "Uninstall or Manage Add-Ons..."
+msgstr ""
+
+#: plugin/appentry.cpp:198
+#, fuzzy, kde-format
+msgid "Hide Application"
+msgstr "پروگراممىلار"
+
+#: plugin/appentry.cpp:263
+#, kde-format
+msgctxt "App name (Generic name)"
+msgid "%1 (%2)"
+msgstr ""
+
+#: plugin/appentry.cpp:265
+#, kde-format
+msgctxt "Generic name (App name)"
+msgid "%1 (%2)"
+msgstr ""
+
+#: plugin/appsmodel.cpp:45 plugin/appsmodel.cpp:69 plugin/computermodel.cpp:110
+#: plugin/computermodel.cpp:239 plugin/recentusagemodel.cpp:167
+#: plugin/recentusagemodel.cpp:227
+#, fuzzy, kde-format
+msgid "Applications"
+msgstr "پروگراممىلار"
+
+#: plugin/appsmodel.cpp:165
+#, kde-format
+msgid "Unhide Applications in this Submenu"
+msgstr ""
+
+#: plugin/appsmodel.cpp:172
+#, fuzzy, kde-format
+msgid "Unhide Applications in '%1'"
+msgstr "پروگراممىلار"
+
+#: plugin/computermodel.cpp:104
+#, kde-format
+msgid "Show KRunner"
+msgstr ""
+
+#: plugin/computermodel.cpp:108
+#, kde-format
+msgid "Search, calculate, or run a command"
+msgstr ""
+
+#: plugin/computermodel.cpp:161
+#, kde-format
+msgid "Computer"
+msgstr ""
+
+#: plugin/contactentry.cpp:117 plugin/recentcontactsmodel.cpp:93
+#, kde-format
+msgid "Show Contact Information..."
+msgstr ""
+
+#: plugin/kastatsfavoritesmodel.cpp:500 plugin/simplefavoritesmodel.cpp:43
+#, fuzzy, kde-format
+msgid "Favorites"
+msgstr "يىغقۇچقا قوش"
+
+#: plugin/recentcontactsmodel.cpp:52
+#, fuzzy, kde-format
+msgid "Contacts"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/recentcontactsmodel.cpp:85
+#, kde-format
+msgid "Forget Contact"
+msgstr ""
+
+#: plugin/recentcontactsmodel.cpp:88 plugin/recentcontactsmodel.cpp:165
+#, fuzzy, kde-format
+msgid "Forget All Contacts"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/recentusagemodel.cpp:165
+#, kde-format
+msgid "Recently Used"
+msgstr ""
+
+#: plugin/recentusagemodel.cpp:170 plugin/recentusagemodel.cpp:302
+#, fuzzy, kde-format
+#| msgctxt "Tab title"
+#| msgid "Files"
+msgid "Files"
+msgstr "ھۆججەتلەر"
+
+#: plugin/recentusagemodel.cpp:245
+#, fuzzy, kde-format
+msgid "Forget Application"
+msgstr "پروگراممىلار"
+
+#: plugin/recentusagemodel.cpp:335
+#, kde-format
+msgid "Open Containing Folder"
+msgstr ""
+
+#: plugin/recentusagemodel.cpp:338
+#, fuzzy, kde-format
+msgid "Forget File"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/recentusagemodel.cpp:470
+#, fuzzy, kde-format
+msgid "Forget All"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/recentusagemodel.cpp:472
+#, fuzzy, kde-format
+msgid "Forget All Applications"
+msgstr "پروگراممىلار"
+
+#: plugin/recentusagemodel.cpp:475
+#, fuzzy, kde-format
+msgid "Forget All Files"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/rootmodel.cpp:107
+#, kde-format
+msgid "Hide %1"
+msgstr ""
+
+#: plugin/rootmodel.cpp:397
+#, kde-format
+msgid "All Applications"
+msgstr "بارلىق پروگراممىلار"
+
+#: plugin/rootmodel.cpp:403
+#, fuzzy, kde-format
+msgid "Recent Contacts"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/rootmodel.cpp:412
+#, fuzzy, kde-format
+msgid "Often Used Files"
+msgstr "يېقىنقى پۈتۈكلەر"
+
+#: plugin/rootmodel.cpp:424
+#, fuzzy, kde-format
+msgid "Recent Applications"
+msgstr "پروگراممىلار"
+
+#: plugin/rootmodel.cpp:425
+#, fuzzy, kde-format
+msgid "Often Used Applications"
+msgstr "پروگراممىلار"
+
+#: plugin/rootmodel.cpp:441
+#, fuzzy, kde-format
+msgid "Power / Session"
+msgstr "يېڭى ئەڭگىمە"
+
+#: plugin/runnermodel.cpp:238
+#, kde-format
+msgid "Search results"
+msgstr ""
+
+#: plugin/systementry.cpp:214
+#, fuzzy, kde-format
+msgid "Lock"
+msgstr "قۇلۇپلا"
+
+#: plugin/systementry.cpp:217
+#, kde-format
+msgid "Log Out"
+msgstr ""
+
+#: plugin/systementry.cpp:220 plugin/systementry.cpp:288
+#, fuzzy, kde-format
+msgid "Save Session"
+msgstr "يېڭى ئەڭگىمە"
+
+#: plugin/systementry.cpp:223
+#, kde-format
+msgid "Switch User"
+msgstr ""
+
+#: plugin/systementry.cpp:226
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr ""
+
+#: plugin/systementry.cpp:229
+#, fuzzy, kde-format
+msgid "Hibernate"
+msgstr "ئۈچەك"
+
+#: plugin/systementry.cpp:232
+#, fuzzy, kde-format
+msgid "Restart"
+msgstr "قايتا قوزغات"
+
+#: plugin/systementry.cpp:235
+#, fuzzy, kde-format
+msgid "Shut Down"
+msgstr "تاقا"
+
+#: plugin/systementry.cpp:248 plugin/systementry.cpp:251
+#: plugin/systementry.cpp:254 plugin/systementry.cpp:257
+#, kde-format
+msgid "Session"
+msgstr "ئەڭگىمە"
+
+#: plugin/systementry.cpp:260 plugin/systementry.cpp:263
+#: plugin/systementry.cpp:266 plugin/systementry.cpp:269
+#, kde-format
+msgid "System"
+msgstr ""
+
+#: plugin/systementry.cpp:282
+#, kde-format
+msgid "Lock screen"
+msgstr ""
+
+#: plugin/systementry.cpp:285
+#, fuzzy, kde-format
+msgid "End session"
+msgstr "ئەڭگىمە"
+
+#: plugin/systementry.cpp:291
+#, kde-format
+msgid "Start a parallel session as a different user"
+msgstr ""
+
+#: plugin/systementry.cpp:294
+#, fuzzy, kde-format
+msgid "Suspend to RAM"
+msgstr "توڭلات"
+
+#: plugin/systementry.cpp:297
+#, fuzzy, kde-format
+msgid "Suspend to disk"
+msgstr "توڭلات"
+
+#: plugin/systementry.cpp:300
+#, fuzzy, kde-format
+msgid "Restart computer"
+msgstr "قايتا قوزغات"
+
+#: plugin/systementry.cpp:303
+#, kde-format
+msgid "Turn off computer"
+msgstr ""
+
+#: plugin/systemmodel.cpp:43
+#, kde-format
+msgid "System actions"
+msgstr ""

@@ -1,0 +1,200 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Shinjo Park <kde@peremen.name>, 2009, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-06-16 02:25+0200\n"
+"PO-Revision-Date: 2020-01-29 00:27+0100\n"
+"Last-Translator: Shinjo Park <kde@peremen.name>\n"
+"Language-Team: Korean <kde-kr@kde.org>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.04.3\n"
+
+#: windowsrunner.cpp:44
+#, kde-format
+msgid ""
+"Finds windows whose name, window class or window role match :q:. It is "
+"possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"창 이름, 클래스, 역할이 :q:인 창을 찾습니다. 활성화, 닫기, 최소(화), 최대"
+"(화), 전체 화면, 말아 올리기, 항상 위, 항상 아래 키워드를 사용해서 창을 제어"
+"할 수 있습니다."
+
+#: windowsrunner.cpp:47
+#, kde-format
+msgid ""
+"Finds windows which are on desktop named :q: It is possible to interact with "
+"the windows by using one of the following keywords: activate, close, "
+"min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgstr ""
+"바탕 화면 :q:에 있는 창을 찾습니다. 활성화, 닫기, 최소(화), 최대(화), 전체 화"
+"면, 말아 올리기, 항상 위, 항상 아래 키워드를 사용해서 창을 제어할 수 있습니"
+"다."
+
+#: windowsrunner.cpp:50
+#, kde-format
+msgid "Switch to desktop named :q:"
+msgstr ":q: 바탕 화면으로 전환"
+
+#: windowsrunner.cpp:51 windowsrunner.cpp:173
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "window"
+msgstr "창"
+
+#: windowsrunner.cpp:52
+#, kde-format
+msgid ""
+"Lists all windows and allows to activate them. With name=, class=, role= and "
+"desktop= the list can be reduced to windows matching these restrictions. It "
+"is possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
+msgstr ""
+"모든 창의 목록을 보여 주고 활성화할 수 있도록 합니다. 이름=, 클래스=, 역할=, "
+"바탕 화면= 을 지정하여 목록을 줄일 수 있습니다. 활성화, 닫기, 최소(화), 최대"
+"(화), 전체 화면, 말아 올리기, 항상 위, 항상 아래 키워드를 사용해서 창을 제어"
+"할 수 있습니다."
+
+#: windowsrunner.cpp:57 windowsrunner.cpp:189 windowsrunner.cpp:251
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "desktop"
+msgstr "바탕 화면"
+
+#: windowsrunner.cpp:58
+#, kde-format
+msgid "Lists all other desktops and allows to switch to them."
+msgstr "모든 다른 데스크톱의 목록을 보여 주고 전환합니다."
+
+#: windowsrunner.cpp:139 windowsrunner.cpp:141
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "activate"
+msgstr "활성화"
+
+#: windowsrunner.cpp:142 windowsrunner.cpp:144
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "close"
+msgstr "닫기"
+
+#: windowsrunner.cpp:145 windowsrunner.cpp:147
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "min"
+msgstr "최소"
+
+#: windowsrunner.cpp:148 windowsrunner.cpp:150
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "minimize"
+msgstr "최소화"
+
+#: windowsrunner.cpp:151 windowsrunner.cpp:153
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "max"
+msgstr "최대"
+
+#: windowsrunner.cpp:154 windowsrunner.cpp:156
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "maximize"
+msgstr "최대화"
+
+#: windowsrunner.cpp:157 windowsrunner.cpp:159
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "fullscreen"
+msgstr "전체 화면"
+
+#: windowsrunner.cpp:160 windowsrunner.cpp:162
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "shade"
+msgstr "말아 올리기"
+
+#: windowsrunner.cpp:163 windowsrunner.cpp:165
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep above"
+msgstr "항상 위"
+
+#: windowsrunner.cpp:166 windowsrunner.cpp:168
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "keep below"
+msgstr "항상 아래"
+
+#: windowsrunner.cpp:183
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "name"
+msgstr "이름"
+
+#: windowsrunner.cpp:185
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "class"
+msgstr "클래스"
+
+#: windowsrunner.cpp:187
+#, kde-format
+msgctxt "Note this is a KRunner keyword"
+msgid "role"
+msgstr "역할"
+
+#: windowsrunner.cpp:411
+#, kde-format
+msgid "Switch to desktop %1"
+msgstr "바탕 화면 %1(으)로 전환하기"
+
+#: windowsrunner.cpp:435
+#, kde-format
+msgid "Close running window on %1"
+msgstr "%1에서 실행 중인 창 닫기"
+
+#: windowsrunner.cpp:438
+#, kde-format
+msgid "(Un)minimize running window on %1"
+msgstr "%1에서 실행 중인 창 최소화 및 복원"
+
+#: windowsrunner.cpp:441
+#, kde-format
+msgid "Maximize/restore running window on %1"
+msgstr "%1에서 실행 중인 창 최대화 및 복원"
+
+#: windowsrunner.cpp:444
+#, kde-format
+msgid "Toggle fullscreen for running window on %1"
+msgstr "%1에서 실행 중인 창 전체 화면 전환 및 복원"
+
+#: windowsrunner.cpp:447
+#, kde-format
+msgid "(Un)shade running window on %1"
+msgstr "%1에서 실행 중인 창 말아 올리기/풀어 내리기"
+
+#: windowsrunner.cpp:450
+#, kde-format
+msgid "Toggle keep above for running window on %1"
+msgstr "%1에서 실행 중인 창 항상 위/해제"
+
+#: windowsrunner.cpp:453
+#, kde-format
+msgid "Toggle keep below running window on %1"
+msgstr "%1에서 실행 중인 창 항상 아래/해제"
+
+#: windowsrunner.cpp:457
+#, kde-format
+msgid "Activate running window on %1"
+msgstr "%1에서 실행 중인 창 활성화"
